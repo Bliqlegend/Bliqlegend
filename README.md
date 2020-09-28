@@ -1,13 +1,9 @@
 
 ### Hi there, I'm  Tanush - aka [cultholmes][website] 👋
 
-<script src="https://tryhackme.com/badge/67447"></script>
-
 <img src="https://tryhackme-badges.s3.amazonaws.com/cultholmes.png" alt="TryHackMe">
 
 [![Twitter Follow](https://img.shields.io/twitter/url?color=Blue&label=Twitter&logoColor=Blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fkros_pro?style=social&logo=appveyor)](https://twitter.com/kros_pro)
-
-<script src="https://www.hackthebox.eu/badge/339205"></script>
 
 <img src="http://www.hackthebox.eu/badge/image/339205" alt="Hack The Box">
 
@@ -25,15 +21,15 @@
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/kros_pro)
+[<img align="left" alt="kros_pro | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/kros_pro)
 
 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tanush-yadav-33a822158/)
+[<img align="left" alt="tanush | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tanush-yadav-33a822158/)
 
 
 
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/y_.tanush69/)
+[<img align="left" alt="tanush | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/y_.tanush69/)
 
 <br />  
 
