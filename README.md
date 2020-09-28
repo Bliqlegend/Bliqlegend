@@ -11,7 +11,7 @@
 
 # I'm an Ethical hacker with slight developer insight 
 
-- 🔭 I’m currently working on a [KOTH scripts][website1]!
+- 🔭 I’m currently working on [KOTH scripts][website1]!
 - 🧣 Second Year Student at Delhi Technological University 
 - 🌱 I’m currently learning Social Engineering
 - 👯 Making New rooms For  [Tryhackme][website]! 
