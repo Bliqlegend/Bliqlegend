@@ -5,7 +5,7 @@
 
 # I'm an Ethical hacker and DevOps Engineer
 
--  Learning CLoud and DevOps Concepts from KodeCloud and Katacoda.
+- Learning CLoud and DevOps Concepts from KodeCloud and Katacoda.
 - 🔭 I’m currently working on a [KOTH scripts][website1]!
 - 🧣 Second Year Student at Delhi Technological University 
 - 🌱 I’m currently learning Social Engineering
@@ -34,8 +34,6 @@
 <h1>Technologies</h1>
 
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1200px-Bash_Logo_black_and_white_icon_only.svg.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="30" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
-
-<br></br>
 
 ![Technologies](https://github.com/Bliqlegend/Bliqlegend/blob/master/Screenshot_1.png)
 
