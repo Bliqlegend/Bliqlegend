@@ -3,8 +3,9 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/url?color=Blue&label=Twitter&logoColor=Blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fkros_pro?style=social&logo=appveyor)](https://twitter.com/kros_pro)
 
-# I'm an Ethical hacker with slight developer insight 
+# I'm an Ethical hacker and DevOps Engineer
 
+-  Learning CLoud and DevOps Concepts from KodeCloud and Katacoda.
 - 🔭 I’m currently working on a [KOTH scripts][website1]!
 - 🧣 Second Year Student at Delhi Technological University 
 - 🌱 I’m currently learning Social Engineering
@@ -34,10 +35,14 @@
 
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1200px-Bash_Logo_black_and_white_icon_only.svg.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="30" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
 
+<br></br>
+
+![Technologies](https://github.com/Bliqlegend/Bliqlegend/blob/master/Screenshot_1.png)
+
 <br><br>
 
 
-![Tanush's github stats](https://github-readme-stats.vercel.app/api?username=bliqlegend&show_icons=true&hide_border=true&count_private=true&theme=dark)]
+![Tanush's github stats](https://github-readme-stats.vercel.app/api?username=bliqlegend&show_icons=true&hide_border=true&count_private=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bliqlegend&show_icons=true&hide_border=true&count_private=true&theme=dark)
 
 <br>
