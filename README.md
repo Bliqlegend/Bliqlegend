@@ -6,11 +6,10 @@
 # I'm an Ethical hacker and DevOps Engineer
 
 - Learning CLoud and DevOps Concepts from KodeCloud and Katacoda.
-- 🔭 I’m currently working on a [KOTH scripts][website1]!
+- 🔭 I’m currently working as DevSecOps in C3 Experential Learning 
 - 🧣 Second Year Student at Delhi Technological University 
 - 🌱 I’m currently learning Social Engineering
 - 👯 Making New rooms For  [Tryhackme][website]! 
-- 🥅 I Have some fun [ML][project2] [Projects][project1] up!
 - ⚡ Love to play KOTH and Attack-Defence Capture the flag Events! 
 
 
