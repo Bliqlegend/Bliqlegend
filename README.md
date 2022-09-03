@@ -59,7 +59,7 @@
 </details>
 
 [website]: https://tryhackme.com/p/cultholmes
-[portfolio]: https://tanush.life/
+[portfolio]: https://tanush.life
 [website1]: https://github.com/Bliqlegend/Attack-Scripts.git
 [project1]: [https://github.com/Bliqlegend/Stock-Prediction.git]
 [project2]: [https://github.com/Bliqlegend/Covid-19-prediction.git]
