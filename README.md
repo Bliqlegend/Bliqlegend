@@ -11,6 +11,7 @@
 - 🌱 Currently working on VueJS and Django Rest as primary stack
 - 👯 Making New rooms For  [Tryhackme][website]! 
 - ⚡ Love to play KOTH and Attack-Defence Capture the flag Events! 
+- 🕸️ More about me [tanush.life][tanush.life]!
 
 
 
