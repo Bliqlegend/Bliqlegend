@@ -3,12 +3,12 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/url?color=Blue&label=Twitter&logoColor=Blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fkros_pro?style=social&logo=appveyor)](https://twitter.com/kros_pro)
 
-# I'm an Ethical hacker and DevOps Engineer
+# I'm a Backend Developer, Penetration Tester, DevOps Engineer
 
 - Learning CLoud and DevOps Concepts from KodeCloud and Katacoda.
-- 🔭 I’m currently working as DevSecOps in C3 Experential Learning 
-- 🧣 Second Year Student at Delhi Technological University 
-- 🌱 I’m currently learning Social Engineering
+- 🔭 I’m currently working as SDE Intern in Innovatiview 
+- 🧣 Fourth Year Student at Delhi Technological University 
+- 🌱 Currently working on VueJS and Django Rest as primary stack
 - 👯 Making New rooms For  [Tryhackme][website]! 
 - ⚡ Love to play KOTH and Attack-Defence Capture the flag Events! 
 
