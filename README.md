@@ -11,7 +11,7 @@
 - 🌱 Currently working on VueJS and Django Rest as primary stack
 - 👯 Making New rooms For  [Tryhackme][website]! 
 - ⚡ Love to play KOTH and Attack-Defence Capture the flag Events! 
-- 🕸️ More about me [tanush.life][tanush.life]!
+- 🕸️ More about me [tanush.life][portfolio]
 
 
 
@@ -59,6 +59,7 @@
 </details>
 
 [website]: https://tryhackme.com/p/cultholmes
+[portfolio]: https://tanush.life/
 [website1]: https://github.com/Bliqlegend/Attack-Scripts.git
 [project1]: [https://github.com/Bliqlegend/Stock-Prediction.git]
 [project2]: [https://github.com/Bliqlegend/Covid-19-prediction.git]
