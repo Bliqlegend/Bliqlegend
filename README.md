@@ -2,15 +2,13 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/url?color=Blue&label=Twitter&logoColor=Blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fkros_pro?style=social&logo=appveyor)](https://twitter.com/kros_pro)
 
-# I'm a Full Stack Developer, DevOps Enthusiast, and Penetration Tester
+# I'm a Software Engineer
 
-- 📚 Learning DevSecOps, CI/CD, and Cloud Security
-- 🔭 Currently working as a Software Development Engineer Intern at Innovatiview
-- 🎓 Fourth Year Student at Delhi Technological University
-- 🌱 Focusing on ReactJS, VueJS, Django, Django Rest Framework, FastAPI, and Flutter/Dart
-- 👯 Creating new rooms for [Tryhackme][website]
-- ⚡ Passionate about Capture the Flag and King of the Hill tournaments
-- 🕸️ Get to know me better at [tanush.life][portfolio]
+- Currently Learning AI
+- DevSecOps, CI/CD, and Cloud Security Enthusiast
+- Know-It-All : ReactJS, VueJS, Django, Django Rest Framework, FastAPI, and Flutter/Dart
+- Fourth Year Student at Delhi Technological University
+- Get to know me better at [tanush.life][portfolio]
 
 ### Connect with me:
 
@@ -19,6 +17,8 @@
 [<img align="left" alt="Tanush | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/y_.tanush69/)
 
 <br />
+
+[![Tanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bliqlegend&show_icons=true&theme=radical)](https://github.com/Bliqlegend)
 
 [website]: https://tryhackme.com
 [portfolio]: https://tanush.life
