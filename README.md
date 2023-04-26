@@ -17,8 +17,11 @@
 [<img align="left" alt="Tanush | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/y_.tanush69/)
 
 <br />
+<br />
 
 [![Tanush's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bliqlegend&show_icons=true&theme=radical)](https://github.com/Bliqlegend)
+
+
 
 [website]: https://tryhackme.com
 [portfolio]: https://tanush.life
