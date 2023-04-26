@@ -30,36 +30,4 @@
 
 <br />  
 
-
-<h1>Technologies</h1>
-
-<!-- <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1200px-Bash_Logo_black_and_white_icon_only.svg.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"> <img height="30" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vagrant/vagrant.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"> <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"> -->
-
-![Technologies](https://github.com/Bliqlegend/Bliqlegend/blob/master/Screenshot_1.png)
-
-<br><br>
-
-
-![Tanush's github stats](https://github-readme-stats.vercel.app/api?username=bliqlegend&show_icons=true&hide_border=true&count_private=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bliqlegend&show_icons=true&hide_border=true&count_private=true&theme=dark)
-
-<br>
-
-<h1>Featured Projects</h1>
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bliqlegend&repo=Fake-Follower-Detection&theme=dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bliqlegend&repo=Stock-Prediction&theme=dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bliqlegend&repo=Covid-19-prediction&theme=dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bliqlegend&repo=Attack-Scripts&theme=dark)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=bliqlegend&repo=Osint_Scripts&theme=dark)
-
-
-</div>
-
-</details>
-
-[website]: https://tryhackme.com/p/cultholmes
 [portfolio]: https://tanush.life
-[website1]: https://github.com/Bliqlegend/Attack-Scripts.git
-[project1]: [https://github.com/Bliqlegend/Stock-Prediction.git]
-[project2]: [https://github.com/Bliqlegend/Covid-19-prediction.git]
