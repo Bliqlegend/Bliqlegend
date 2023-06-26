@@ -4,10 +4,10 @@
 
 # I'm a Software Engineer
 
-- Currently Learning AI
+- Currently Building Products
 - DevSecOps, CI/CD, and Cloud Security Enthusiast
-- Know-It-All : ReactJS, VueJS, Django, Django Rest Framework, FastAPI, and Flutter/Dart
-- Fourth Year Student at Delhi Technological University
+- Know-It-All: Langchain, ReactJS, VueJS, Django, Django Rest Framework, FastAPI, and Flutter/Dart
+- Delhi Technological University Alumni
 - Get to know me better at [tanush.life][portfolio]
 
 ### Connect with me:
